@@ -1,3 +1,3 @@
-print("este programa conta de 1 a 10.")
+print("Contar de 1 a 10.")
 for x in range(1,11):
     print(x)
